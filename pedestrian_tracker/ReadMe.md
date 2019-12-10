@@ -13,5 +13,5 @@ OR
 
 ```python ptrack.py --folder PATH_TO_DIR```
 ### Sample Outputs
-A few video files with tracker output can be found [here](https://drive.google.com/drive/folders/1PVY1T6hqMw_I1oH8ku5brJMwXSyXSQPd)
+A sample video file with tracker output can be found [here](https://drive.google.com/open?id=1-3_E925GHsW-vLT7bJfZi4hVruv9-oLV)
 
