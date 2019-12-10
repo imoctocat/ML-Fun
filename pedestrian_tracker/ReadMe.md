@@ -12,3 +12,6 @@ The code file takes the path to a folder with video(s) of pedestrians camera fee
 OR 
 
 ```python ptrack.py --folder PATH_TO_DIR```
+### Sample Outputs
+A few video files with tracker output can be found [here](https://drive.google.com/drive/folders/1PVY1T6hqMw_I1oH8ku5brJMwXSyXSQPd)
+
